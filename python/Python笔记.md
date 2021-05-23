@@ -88,3 +88,13 @@ Rosources 资源
 Representation 表现层 
 
 State Transfer 状态转化  使用GET POST PUT DELETE  http 动词来操作资源，实现资源状态的改变
+
+
+
+### 常用并发网络库
+
+Tornado
+
+Gevent   
+
+Asyncio 
