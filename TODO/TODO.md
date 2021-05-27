@@ -23,6 +23,14 @@
    1.可以传入需要抓取的网址列表
 
    2.该类可以通过继承的方式提供一个处理response的方法
+   
+   
+   
+   JWT FLASK
+   
+   https://blog.csdn.net/weixin_43262264/article/details/108628334
+   
+   https://www.jianshu.com/p/3f38b777a621
 
 
 
